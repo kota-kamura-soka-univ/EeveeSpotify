@@ -19,6 +19,13 @@
           "size": 80816437
         },
         {
+          "version": "8.9.80",
+          "date": "2024-10-06",
+          "localizedDescription": "Spotify v8.9.80 injected with EeveeSpotify",
+          "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
+          "size": 80816437
+        },
+        {
           "version": "8.9.78",
           "date": "2024-10-01",
           "localizedDescription": "Spotify v8.9.78 injected with EeveeSpotify",
